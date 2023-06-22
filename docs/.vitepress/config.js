@@ -24,7 +24,14 @@ export default defineConfig({
 				content: "八股文,web,web前端,面试,学习,图形",
 			},
 		],
-		["link", { rel: "icon", href: "/theRoadIHaveTaken/img/ico.png" }],
+		[
+			"link",
+			{
+				type: "image/png",
+				rel: "shortcut icon",
+				href: "/img/ico.png",
+			},
+		],
 	],
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
