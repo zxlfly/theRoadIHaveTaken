@@ -5,6 +5,9 @@ export default defineConfig({
 	title: "今天你学习了吗",
 	base: "/theRoadIHaveTaken/", // 项目的根路径
 	ignoreDeadLinks: false, // 构建时会忽略md中的外链
+	build: {
+		outDir: "docs", // 打包文件的输出目录
+	},
 	markdown: {
 		// theme: 'material-palenight',//md主题
 		lineNumbers: true, //md 加行号
