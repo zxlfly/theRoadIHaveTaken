@@ -27,9 +27,8 @@ export default defineConfig({
 		[
 			"link",
 			{
-				type: "image/png",
 				rel: "shortcut icon",
-				href: "/theRoadIHaveTaken/public/img/ico.png",
+				href: "/favicon.ico",
 			},
 		],
 	],
