@@ -29,7 +29,7 @@ export default defineConfig({
 			{
 				type: "image/png",
 				rel: "shortcut icon",
-				href: "/img/ico.png",
+				href: "/theRoadIHaveTaken/public/img/ico.png",
 			},
 		],
 	],
