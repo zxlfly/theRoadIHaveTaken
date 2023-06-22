@@ -36,7 +36,8 @@ export default defineConfig({
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		logo: "https://avatars.githubusercontent.com/u/26324442?s=96&v=4",
-
+		lastUpdatedText: "更新时间",
+		outlineTitle: "目录",
 		nav: [
 			{ text: "首页", link: "/" },
 			{ text: "参与进来", link: "/joinus" },
