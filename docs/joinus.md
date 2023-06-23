@@ -6,10 +6,10 @@
 - 点Clone 个人空间项目到本地：``git clone git@github.com:username/theRoadIHaveTaken.git``  
 - 点在 theRoadIHaveTaken 的根目录下运行``npm i``或者``yarn``, 安装 node 依赖  
 - 点运行 ``npm run dev``或者``yarn dev``，启动组件库网站  
-- 点使用浏览器访问：http://localhost:5173/theRoadIHaveTaken/  
+- 使用浏览器访问
 
 ## 参与贡献
-- 点请确保你已经完成快速上手中的步骤，并且正常访问 http://localhost:5173/theRoadIHaveTaken/
+- 点请确保你已经完成快速上手中的步骤，并且正常访问
 - 点创建新分支 ``git checkout -b username/feature1``，分支名字建议为``username/feat-xxx/username/fix-xxx``
 - 点本地编码，需遵循 开发规范  遵循 Angular Commit Message Format 进行提交（不符合规范的提交将不会被合并）
 - 点提交到远程仓库，也就是 Fork 后的仓库，``git push origin branchName``
